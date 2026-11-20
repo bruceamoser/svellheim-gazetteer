@@ -1,0 +1,8 @@
+= The World of Svellheim
+
+A system-agnostic fantasy gazetteer in development.
+
+Svellheim once prospered. Ships sailed south, assemblies drew delegates from across the land, and even in the far north people knew when to expect summer. Now the deep winter has settled in. Communities share what warmth they can spare and contend with the things that are poisoning the land.
+
+* link:gazetteer/01-the-age-of-embers.adoc[The Age of Embers]
+* link:gazetteer/02-hrafnborg.adoc[Hrafnborg]
