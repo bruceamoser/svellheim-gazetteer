@@ -1,95 +1,201 @@
 # Places in the Boat
 
-## Chapter One · A Woman with a List
+## Chapter One · A Place Below the Oars
 
-The woman who had saved Una’s life couldn’t remember her name.
+The woman who got Una out of captivity had onion breath. It was one detail Una left out when telling the story to her children. She kept it for herself. When somebody had you by the foot in a dark boat and you were six years old, it made a considerable difference to find the great terrible woman above you had recently eaten her supper.
 
-It ought not to have hurt. Asa had been bringing children out of captivity for thirty years. There must have been one boatful after another, and Una had been six, with ringworm on her scalp and an excellent set of biting teeth. Her chief memory of deliverance was the underside of a thwart and a woman telling her she could come out whenever she liked. She had stayed there all the way home.
+“You can go under there,” the woman said. “Duck when you get to the middle. There's a nail somebody ought to do something about.”
 
-Now she stood in the harbor at Ormsund with a ship of her own and fourteen island rowers waiting to hear what she had pledged on their behalf. The captains had been called together by Asa, who had been dead and buried once. Before Hel, who keeps the dead, Asa had promised to find the people carried off in the wars. Una used to make her father tell the story of that promise at bedtime, chiefly for the pleasure of hearing herself mentioned in it. He always gave her an extra biscuit at the bit where she came home.
+Una went on her belly beneath the rowing bench. For three nights she had been shut up with other children in a fish house while men on the beach tried to agree a price for them. After the first night they had learned to keep quiet when grown people came to the door.
 
-“Put me down for fourteen,” she said.
-
-“Fifteen,” said Asa. “Don’t you eat?”
-
-Una tried smiling. “I used to take my meals under your seat.”
-
-Asa looked up. Behind her, a delegation of horsemen was shouting to the grain clerks about fodder. Someone called to her from a window. “Did I carry you once?”
+“Can I stay here till the boat stops?”
 
 “Yes.”
 
+“What happens if I want to stay after?”
+
+“I suppose your father will have to come down and get me to marry him. He'll have a job of it. I don't much like island men.”
+
+Una went home all that distance with her cheek on a board still warm from the afternoon sun. At the landing her father had to go knee-deep beside the boat before he could see in under the bench. For some reason he had brought the family cat with him. The cat came aboard and walked along Una from her heels to her head. She emerged under her own power with an indignant animal fastened to her hair. The woman overhead had a laugh you could have heard on the next island.
+
+Her name was Asa. She had been a river captain who died and was buried. Before Hel, the woman who receives the dead, she had asked to come back for the people carried off in the river wars. Una's father knew where Hel had set her down, how far she had walked to her first boat, what she had had for breakfast. His account got longer every year. He never did explain why he took the cat to the landing.
+
+By the time the miller king Vargeld came up out of the mountains with an army at his back, Una's father was buried on the hill and Una herself commanded a red boat with fourteen oars. Her children were grown enough to run the smokehouse. They came down to watch their mother take volunteers aboard. There had been grain enough in the islands at sowing time. Vargeld held the grain ports now. Una had ground their last sack of seed barely an hour before the call came for men to muster at Hrafnborg.
+
+“One condition,” she told the men from the north beach, who came up carrying their own oars. “In my boat it's customary for a man who's afraid to sing. It keeps the other fellows from feeling lonely.”
+
+“What happens if you're afraid?”
+
+“You'll have to sing bloody loud to be heard over me.”
+
+Her brother Odd tossed her his cap. Four other captains had put off the crossing. The wind had got up against the tide. At sea there was a dirty white break where there ought to have been deep water, and Una could count on an argument about taking the nearer channel. She stood in the stern with one foot bare so she could feel what the hull was doing. Where the outer boats had turned back she brought her rowers round in the lee of a rock she had first fished from when she was ten. They emerged stern-first into quiet water with the headland between them and the wind. The men from the north beach had got through most of a dirty song. Her own crew were waiting to hear how it ended.
+
+“Anybody have a criticism?” Una called.
+
+“You've left my good cap on the other side,” said Odd.
+
+They ate hot fish on the quay at Hrafnborg. The last man off offered her a coin with a hole in it for the fare. Una slid it back along his belt. “Buy your mother something ugly as sin when you get back. She'll keep it till she dies.”
+
+## Chapter Two · The Commander
+
+For two campaigning seasons Una took men along the southern coast to Ormsund, the port at the mouth of the Ormá, and up the broad river as far as a loaded boat would go. At the beginning the banks were green. Boys on horseback raced her for miles. By the second autumn she could smell an abandoned village before she saw its chimneys. There were whole companies now that went aboard and to sleep without a word to her.
+
+It was on that river she saw Asa again. Una had put on the good red coat she wore to solemnize a marriage or settle a bet. The command tent at the landing was full of officers. Their army had been pushing inland for two years to reach the pass through which Vargeld supplied his people. Above them at Titan's Stair a flight of steps went clean across the mountains. All Una saw of it from the river was the white shoulder of a peak above the willows. Tomorrow somebody in that tent would have to order people up those steps.
+
+Asa sat on a meal barrel with a strip of leather round a cracked shoe and a bowl of peas going cold on her knee. Una waited for a speech. Asa asked the laundress by the door how many sheets had come back from the wash.
+
+“Are you expecting company in clean beds?” Una asked. Some of the men grinned.
+
+“I am. What's your name?”
+
+Una gave it. “I used to be one of your passengers. You took me out of a fish house and carried me to the islands.”
+
 “Did you get home?”
 
-There were a dozen things Una had imagined saying to her over the years. She had rehearsed them as a girl on the long night watches at sea. What came out was, “I captain that one. The red boat.”
+It took Una a moment. She had thought it so likely Asa would enjoy meeting the girl who had grown up to be a captain that she had brought a second bottle of her own blackberry wine. “Yes. That's a daughter of mine you can hear cursing a sailmaker outside. He's her husband now, which has done nothing to improve his sailmaking.”
 
-“Then I shall know where to come when I need someone carried.” Asa wrote down fifteen and pressed on through the crowd.
+Asa set her peas down. “Will you take charge of a barge for me tomorrow? I've people going into the mountains enough. I have nobody I trust coming back.”
 
-Una returned to her crew annoyed at herself. They had come because the island granaries were empty, because Vargeld had taken the mainland ports, because they were sick of eating the barley put by for seed. Nobody had rowed across the sea so their captain could be remembered by a woman with a list.
+“I've just brought a fast boat upriver. Ask me what I can do with her.”
 
-Her brother had a blister on his palm. Una took his oar for the first pull away from the quay. Across the water a row of women held up scraps of cloth, every color they could find. Each was hoping someone on a passing deck would recognize a piece cut from a missing person’s coat. One of the women held up a square of faded blue. Una’s father had kept a scrap of her coat all those years, folded inside his purse. When he died she had taken out the coins for the burial and spent a good hour trying to remember what the rag was for. She wanted to tell Asa she was sorry for being a nuisance at the quay. By then she had lost sight of her.
+“I asked the people on the bank. They told me.”
 
-## Chapter Two · The Broth House
+“Then give me the men your army needs. I'll have them up to the old landing before the others are awake.”
 
-Two summers later Una was crouched in the window of the broth house at Stairwatch, taking men by the armpits as hands passed them out to her. The house had lost its roof. Its door was blocked. Above it rose the great steps of the mountain pass, cut long ago for feet far larger than hers. The first day’s fighting had driven the alliance down those steps. Somebody had to get the wounded away before the enemy came down another flight.
+A small woman sitting on an upturned pail tried to get a word in. Asa let Una finish.
 
-Asa found her at dusk, sitting on the sill with her back to the wall.
+“My people came to fight,” Una said.
 
-“I need your crews up there tomorrow.”
+“So did I. In the morning I go up with them. The barge has a broad floor and a high side. Everyone who has looked at her has told me what a great many people she can take. Meret, will you tell the captain what your brother does for a living?”
 
-“Who’ll do this, then?” Una put a hand on the sill. “They come as far as the window and stop?”
+“Hauls stone,” the woman on the pail said. “He fell down a cutting once. To get him over the side of that barge I'd have to stand him up on the leg he'd broken.”
 
-A woman who had spent the afternoon tearing cloth for bandages interrupted. She was one of the Veilfolk, small enough that Una had been receiving bundles over her head without once looking at her face. “The uprights in our shelters will make poles. A blanket with both sides turned in will carry a man. We can take them down.”
+Una put down the bottle of wine. She could see it now, the last two feet of the lift, somebody trying to push from underneath. “You want the old wool wharf. There's a loading door on that side just above the water.”
 
-“And where will your own people sleep?”
+“That was what I came to ask about,” said Meret. “Do you suppose we could try it with a live man to see where he'd scrape?”
 
-“Tomorrow? I should like that to be our difficulty tomorrow.” She put a bloody hank of cloth into Una’s hands. “You’ve split your thumb. Hold this tight.”
+“Try me,” said Una.
 
-“I haven’t even asked your name.”
+At the wharf Meret and four volunteers laid her in a blanket between two poles. The first lift got her round the turn but left nobody any purchase for the next. Una spent an instructive minute looking at the sky while five strangers decided which bit of her they could decently get hold of. They moved the door rail and tried again. Her brother had the good sense to let her walk back to the tent alone.
 
-“Meret. Give me the names of the people you handed through that window. I’ve a brother who came up this morning.”
+“You could have told me what you wanted,” she said to Asa.
 
-Una had taken the weight of every last one of them. She could tell Meret who had a broken thigh, and whose shoulder she had tried to hold still. No one in the yard had asked who the wounded were. Together they went down to the shelters. In the third row Meret found her brother. She knew his boots, which had once belonged to her.
+“I didn't know how to get a big man off a wharf without hurting him. Now I do.” Asa had at last got a spoonful of her peas. She offered the bowl to Una. “You were expecting someone else, weren't you?”
 
-That night Una lay awake listening to the little taps of shelter pegs being drawn out all across camp. She had grown up thinking there were two sorts of people in the world, the ones in the bottom of the boat and the ones who got them home. By morning there were enough litters to cover the yard. The woman who had made the first one was asleep beneath it.
+“Somebody with a bit more noise to her. The story my father told, you kicked the door off that fish house.”
 
-## Chapter Three · The Top Step
+“Did he say why we waited until those men had gone down for a drink? Took me three afternoons to find out when they went.”
 
-Word came from below that the deep gate had fallen. Una felt it through the soles of her shoes before the shouting reached her. Somewhere under that weight of stone were the companies that had held the galleries for the captives escaping through them. Eleven volunteers got out. She learned their number afterward. At the time all she knew was that for the first time in two days nobody was coming up behind the Hollowking to take the place of the ranks that fell.
+“He'd got it so you fought seven of them. And a bear, when he'd been drinking.”
 
-From the other side of the crest came a ragged cheer. Their eastern army had reached the top.
+“How fine to have had your father.”
 
-Asa had one knee on the last high step. The people behind her thought she was hurt. Una went up on her belly to get a shoulder under her arm, and heard children speaking.
+There were things Una had imagined saying to her over the years. At this distance of years she could still have got angry enough to say some of them. Instead she opened the second bottle. Asa drank half a cup and corked the rest herself. She wanted to be clearheaded in the morning.
 
-A boy begged to be let out of a house. Another said that his mother had promised to come back. The voices came from the man in the mail coat above them, though his mouth was shut. Una had never seen Vargeld so close. Where his mail had rubbed his throat raw he had tucked in a strip of yellow flannel. The homeliness of it frightened her more than his guards. For every boat Asa had brought home there had been names left on her list, and this sweating man with a sore on his neck knew their voices.
+## Chapter Three · Downriver
 
-“I hear them,” Una said.
+By noon the following day Una was singing the filthy song from the north beach to a man with a broken thigh. It took the healers three verses to get him settled on the barge. He filled in the part of the second verse she'd never learned. Then he put out a trembling hand. In it lay a coin with a hole.
 
-“I left a boy on the upper river. I know which house. I could go there now.”
+“I've seen you before,” she said.
 
-“The upper river is two days behind us.”
+“She likes a comb with ships on it. At the market in Hrafnborg. If I'm still laid up, you'll see to it?”
 
-“I know which house.”
+She put his hand back on his chest with the coin in it. She had given him his fare back two summers ago. He had made the long march since, eating and sleeping and getting his hair cut in any number of damp places, and carried the thing the whole way.
 
-Una got hold of her hand. It was cold and very strong. Suddenly she remembered the voice from above the thwart saying she might come out whenever she liked. She had always remembered it as a kindness. For the first time she heard what it must have cost the woman overhead to let a frightened child choose for herself.
+“Tell me your mother's name,” she said. “I'd like to be able to find her.”
 
-“There's room up here beside me,” Una said, and waited.
+His name was Val, hers was Hervor, and she was particular about combs. He would have liked to explain this at some length. Meret, who was helping him drink, gave Una a look over the cup. This was a man with a good chance of explaining things to his mother himself. Una realized she had been braced since morning to be given last messages. It came as a relief to have a tiresome passenger aboard.
 
-Asa got her other knee over the step. Una went up beside her. Through a gap she saw a spear bring the Hollowking down. The men behind her pressed her against Asa so hard she could feel the little bone buttons under Asa’s coat. Somebody on the far side was shouting over and over that he yielded, and for a terrible minute there was no room to let him. Then the crowd gave back a step. The spear lay on the rock. The boy in the house had stopped crying.
+They had the wounded from Stairwatch all afternoon. The defenders had fallen back down the steps into the mountain town. Meret's own people, the Veilfolk, were a small folk who traveled with shelters they could take down and carry. All day there had been men coming out along the road in litters made of tent poles and bedding. By evening the families who had made them would have nothing to sleep under. A wagon turned up at the wharf with all the great awnings from the grain market, rolled and tied. The driver asked where Commander Asa had wanted them put.
 
-At the foot of the Stair next morning Una found Meret beside her brother. He was unconscious again. Meret had set his boots where he could see them when he woke. They sat down with the lists and worked out where to send the names of the island dead. Twice Una had to ask how to spell the name of a man she had known for years.
+“Did she send for these today?” Una asked.
 
-At the bottom of the page she wrote the name of the woman beside her too.
+“Three days ago. She gave me a devil of a time about the pegs.”
 
-“I’m alive,” the woman objected.
+On her second trip back she found Asa at the landing. She had come down on a relay horse and was waiting for a company of island reserves to march up with her. Meret met her with a scrap of paper covered in mud. Her brother was still missing. She wanted to know who had held the end of the lane at the fall of Stairwatch. Asa could give her a company. It would have to do. Somebody had brought the company cook along with a wounded wrist. Asa held his dinner for him while he looked over the handwriting. He remembered a stone hauler going down in the last wagon. He remembered the enormous boots and the poor man apologizing for taking up so much room.
 
-“I’m inviting you home. You’ll never find me by asking for a red boat. There must be six in our harbor.”
+Meret went tearing down the towpath in her stocking feet. Asa ate what was left of the cook's supper when he offered it. Her reserve captains had got their people together. She gave them the hour they were due up on the heights and left each of them to work out how early they had to start. A few got it wrong and she waited, listening, until their own men put them right.
 
-She drew the inlet and put a cross by her house. When Meret’s brother could bear to be carried, they went down to the coast together. Una had two of her thwarts taken out to make room for a litter. It was expensive work on a boat that belonged to her and would have to earn its keep again. She got some pleasure out of paying the shipwright for it.
+“I'd have picked them up by the ears,” Una said when the others had gone.
 
-As they put out from the quay a small voice spoke up from under the remaining thwart. It was a girl off one of the prisoners’ carts. She wanted to know if she had to come out.
+“I should like to see you do that to the big one.”
 
-Una lay down on the boards to see her. There was a thin brown face, a pair of boots far too big for the feet inside them, and a fist closed round the hem of an old blue coat.
+“What would you have done if his men hadn't spoken?”
 
-“I made the trip there myself once,” Una said. “It’s a good place. What shall I tell the people looking for you?”
+“Asked the youngest what time he'd want his breakfast. The boy knows how far he walked yesterday.”
 
-The girl told her. Una called the name up to Meret to put on the list, then lay where she was awhile and watched the water go by through the oar hole, a hand’s breadth above her face.
+Asa was trying to get up on the saddle. She had been on her feet long enough for the leather to cut through her stocking where it bound her shoe. Una made a step for her with both hands.
+
+“I don't remember you,” said Asa, looking down at her. “You were hurt by that yesterday. I'd like to have been able to give you what you came for.”
+
+Una got very busy adjusting the stirrup leather. “Do you think you can remember to come and tell me tomorrow if they win?”
+
+“If I'm able.”
+
+Word came down in the night. The armies on the two sides of the mountains had met on the crest. Vargeld was dead. Meret heard it on the wharf and ran down to tell her brother, who had exactly the temper on him you would expect of a stone hauler found in a laundry shed wearing someone else's smallclothes. At first light Una went downriver with sixty injured people, Meret and the dirty shirts of a company that had ceased to exist. She put the man who liked combs by the door so he could see where he was going.
+
+## Chapter Four · What the River Took
+
+All winter the allied armies kept the mouths of the mountain workings while the last captives were brought out. Una ran the barge. Orders, rumors and small parcels traveled on it. The only one to come from Asa contained two felt insoles. Una sent back a drawing of the proper place to put them. She had never before been on such terms with the commander of an army.
+
+The day the last prisoners came to the river, Asa wrote the order sending the armies home. Una stood behind her at the writing table, making rude observations about the length of it. A boy took it down the wharf at a run. The soldiers cheered as he went by. Some had shaved for the occasion. Una remembered how quickly it had grown dark the day her father had come down to the water with a cat inside his coat, and how carefully he had plainly shaved to be seen by a girl of six.
+
+She was carrying the table back aboard when she heard a horse come hard through the shallows. Three riders broke out of the brush on the far bank. All winter there had been men out of Vargeld's companies living hungry in the gullies. These had come to the crossing at the worst possible moment. One rider fell. An arrow passed through the skin of the drum with which a small boy was welcoming his father home. The boy stood looking into the hole. Asa was standing under the awning with a young prisoner who could barely keep his feet. She pushed him into the open loading door. Una saw the next arrow strike her high in the side. She saw it come through the front of her gray coat. Then the river heaved the barge away and back, and she was on her knees on the boards with Asa against her.
+
+Odd took the boat and got her clear. Meret got the coat away and did what she could. The two women looked at one another. Una would have given every good tooth in her head to be ignorant for five minutes longer.
+
+“It's the boat, isn't it?” Asa whispered. “I can feel her going.”
+
+“Yes, love.”
+
+“You never called me that before.”
+
+“I hadn't finished being cross with you. Give us a little time yet.”
+
+Asa drew a breath and concentrated on getting it out. “Tell me about going home. The first time. Tell me something you can remember.”
+
+Una lay down so Asa could see her without lifting her head. She told her about the cat and the nail. Her father had sewn up the scratch on her scalp with the same linen he used to mend the cuffs of her dresses. For weeks afterward he had sat outside her bedroom when she woke sweating, and soon she could go back to sleep listening to him scratch himself. Then one night she'd gone a whole night through. In time she had married. There were three children. The youngest could lift her mother clean off the ground. Her father's little boat was hauled up in a kitchen garden nowadays with chives growing out of the seams.
+
+“I owe you all that,” Una said. “I came up the river wanting you to remember a small girl. I ought to have told you what happened to her. You didn't get to come home and see.”
+
+“I'd have eaten at your table,” Asa said.
+
+“You'd have got the chair with the good bottom.”
+
+“I'd have liked that, Una.”
+
+Behind them somebody began to hush the people aboard. Una had sworn her wedding vows into a headwind before Njoror, the Sea-King her people asked to bring them home. She spoke up now, in the full voice that carried the length of a tossing boat.
+
+“Njoror, you had my father's father and you'll have me one day. Hear what I'm giving while it's mine to give. Asa, the passage you gave me is yours to give again, out of my hands. As long as I can float a boat, whoever's standing on the shore frightened and far from their own can call on me in your name or in no name at all. I'll take them, though I've a whole tide's work to unload to make them room. I'll find out where they want to go. If the fare's beyond them I'll pay it. When I'm too old to steer I'll sit on the quay and find them somebody who can. I swear you my last crossing. That's yours, too.”
+
+Asa's hand moved a little on the boards. Una put her cheek into it. A bit of rough skin caught under her eye.
+
+“Will there be room for a cat?” Asa asked.
+
+“Oh, you damned woman. You did remember.”
+
+“Just now,” she said.
+
+Her hand grew heavy against Una's face. Una held it there for some time after Meret put a blanket over the two of them. From beneath the blanket she could hear her brother at the steering oar, crying quite openly, carrying the boat on down the Ormá.
+
+## Chapter Five · Free Passage
+
+In the first spring of peace Una took three bales of good dyed wool off her red boat and left them in an island merchant's store. He would charge her something frightful if the moth got in. There were families on the quay at Ormsund trying to get back to the islands after a winter in the grain sheds, and they had all the belongings of their old households and their winter ones besides. Her brother held up a four-legged stool. Una pointed imperiously to her own head. The people waiting laughed and came aboard.
+
+Halfway across she heard a small sneeze where a sneeze had no business coming from. She knelt on the boards and looked under the rowing bench. A girl in a grown man's coat was down there, one eye visible between two woolen scarves. In her arms she held a chipped blue dish.
+
+“Would you like me to mind that?” Una asked.
+
+“It's my mother's. It's the last blue one.”
+
+“I know a thing or two about breaking dishes. You've picked the safest place on this boat.”
+
+“Do I have to come out?”
+
+“You can stay there till she stops. And after, if you like.”
+
+She started to get up. One small hand came out and caught the edge of her red coat.
+
+“Could you stay down here?” the girl said.
+
+Now that was something she had never thought to ask. Una called her brother's name and heard his answer from the steering oar. Then she got down on her belly with the girl and the dish between them. All these years there had been room enough for two.
