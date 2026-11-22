@@ -26,11 +26,11 @@ Use plain, specific language and a measured cadence. Name the people who hold an
 
 ## Page design
 
-Use the gold interlace around each cover. In the gazetteer, repeat it in the footer and place transparent illustrations of objects from the text in the space at section endings. Set the companion like a paperback novel, with one column on a six-by-nine-inch page, a plain folio, indented prose and a fresh page for each story. Its only illustration is the cover.
+Use gold interlace on the gazetteer cover and repeat it in the footer. Place transparent illustrations of objects from the text in the space at section endings. Set the companion like a paperback novel, with one column on a six-by-nine-inch page, a plain folio, indented prose and a fresh page for each story. Its only illustration is the cover.
 
-Both volumes carry a publication page immediately after the contents. The [gazetteer credits](publication.md) and the [story collection credits](../stories/publication.md) are separate manuscripts so each edition can receive its own ISBN.
+Both volumes carry a publication page immediately after the contents. The [gazetteer credits](publication.md) and the [story collection credits](../stories/publication.md) are separate manuscripts so each edition can receive its own ISBN. Use the full name **Bruce A. Moser** in all bylines, credits, editorial references and publication metadata.
 
-The [companion cover illustration](../artwork/stories-cover.png) shows the roadside shelter an Ember Tender visits on their rounds. Set the title in black in the sky above its roof. The gold interlace belongs to the binding design.
+The companion cover shows the roadside shelter an Ember Tender visits on their rounds. Set the title in black in the sky above its roof. Leave a narrow band of white paper around the shrine so the hatching in the black-ink knots stays legible against the dark timbers. [Shrine illustration](../artwork/stories-cover.png) · [Knotwork frame](../artwork/stories-ink-border.png)
 
 <details>
 <summary>Production prompt for the companion illustration</summary>

@@ -26,6 +26,7 @@ from reportlab.platypus import (BaseDocTemplate, CondPageBreak, Flowable, Frame,
 ROOT = Path(__file__).resolve().parents[1]
 os.chdir(ROOT)
 ART = Path("artwork")
+AUTHOR = "Bruce A. Moser"
 FILES = [Path("gazetteer")/name for name in (
     "03-history.md", "01-the-age-of-embers.md", "04-atlas.md",
     "02-hrafnborg.md", "05-ancestries.md", "06-pantheon.md", "07-reckonings.md",
@@ -110,14 +111,21 @@ def cover(c, doc):
 
 def stories_cover(c, doc):
     width, height = doc.pagesize
+    art_inset = 30
+    frame_inset = 6
     with Raster.open(ART/"stories-cover.png") as source:
-        c.drawImage(ImageReader(source.convert("L")),0,0,width,height)
+        art_width = width - 2 * art_inset
+        c.drawImage(ImageReader(source.convert("L")), art_inset, art_inset,
+                    art_width, art_width * source.height / source.width)
+    with Raster.open(ART/"stories-ink-border.png") as source:
+        border = source.crop(source.getchannel("A").getbbox()).convert("LA")
+        c.drawImage(ImageReader(border), frame_inset, frame_inset,
+                    width - 2 * frame_inset, height - 2 * frame_inset, mask="auto")
     c.setFillColor(HexColor("#171717"))
     c.setFont("BookBold",20)
     c.drawCentredString(width/2,height-54,"Stories of")
     c.setFont("BookBold",38)
     c.drawCentredString(width/2,height-99,"Svellheim")
-    gold_interlace(c,width,height)
 
 def publication_page(source, heading_style, book_style, credit_style):
     blocks = source.read_text().strip().split("\n\n")
@@ -244,7 +252,7 @@ def year_wheel(rows):
 
 def layout_gazetteer(path, pages):
     files = FILES
-    doc = Book(str(path),pagesize=(W,H),title="Svellheim — World Gazetteer")
+    doc = Book(str(path),pagesize=(W,H),title="Svellheim — World Gazetteer",author=AUTHOR)
     doc.starts = {}
     def frame(left, width):
         return Frame(left, 45, width, H-85, leftPadding=0, rightPadding=0,
@@ -417,7 +425,7 @@ def layout_stories(path, pages):
     width, height = 432, 648
     side_margin = 50
     text_width = width - 2*side_margin
-    doc = Book(str(path), pagesize=(width,height), title="Stories of Svellheim")
+    doc = Book(str(path), pagesize=(width,height), title="Stories of Svellheim", author=AUTHOR)
     doc.starts = {}
     serif = "Book"
     italic = "BookItalic"
@@ -468,7 +476,7 @@ def layout_stories(path, pages):
 
     flow = [Spacer(1,1),NextPageTemplate("novel"),PageBreak(),Spacer(1,132),
             Paragraph("Stories of Svellheim",title),Paragraph("Seven short stories",chapter),
-            Spacer(1,88),Paragraph("World created by Bruce Moser",small)]
+            Spacer(1,88),Paragraph(f"World created by {AUTHOR}",small)]
     def contents_row(name, key, face, number):
         linked = f'<link href="#{key}">{escape(name)}</link>'
         right = ParagraphStyle("right folio",parent=face,alignment=2,leftIndent=0)
@@ -535,5 +543,5 @@ if __name__ == "__main__":
             pages = typeset(draft,{})
             assert pages == typeset(draft,pages)
             subprocess.run([cli,"edit",str(draft),"--out",str(Path(temp)/"book.pdf"),
-                            "--title",title,"--author","Bruce Moser"],check=True)
+                            "--title",title,"--author",AUTHOR],check=True)
             shutil.copyfile(Path(temp)/"book.pdf",output)

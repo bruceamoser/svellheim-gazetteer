@@ -2,7 +2,7 @@
 
 ## Svellheim World Gazetteer
 
-World and original cartography by Bruce Moser
+World and original cartography by Bruce A. Moser
 
 Cover artist · TBD
 

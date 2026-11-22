@@ -2,7 +2,7 @@
 
 ## Stories of Svellheim
 
-World and stories by Bruce Moser
+World and stories by Bruce A. Moser
 
 Cover artist · TBD
 
