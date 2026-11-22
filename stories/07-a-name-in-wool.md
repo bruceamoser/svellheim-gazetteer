@@ -6,7 +6,7 @@ The little boy came up the lighthouse stairs whistling. There were eighty-three 
 
 People came there in all weathers. Once their sealskin coats began to steam you could tell if they'd come by boat or on a horse or from a house where somebody had started the day's catch smoking. The air in the lighthouse at Brimstead must have taken up the smell of every household along the Weeping Coast. Frigg kept the names of the dead. The women who looked after her tapestry in the lamproom, with the sea all about them and the light burning overhead, kept those of the drowned. Anybody could come in and run a hand along the cloth and find somebody they would once have gone down to the quay to meet.
 
-Liv was thirty, with a blue mark where she sometimes pushed her needle into her sleeve and missed. She was the woman people went to when a name had pulled loose. She believed herself very good at finding a man in the cloth before his family had quite finished giving her the name of his ship. She knew the mother before the woman had finished pushing a lock of the boy's hair back behind his ear.
+Liv was thirty, with a blue mark where she had once pricked a finger deep with the point of a needle stained with woad. She was the woman people went to when a name had pulled loose. She believed herself very good at finding a man in the cloth before his family had quite finished giving her the name of his ship. She knew the mother before the woman had finished pushing a lock of the boy's hair back behind his ear.
 
 “Ragna,” said Liv.
 
@@ -28,11 +28,11 @@ They walked that length of the wall together. In a running band of waves on the 
 
 Ragna went to the window for a better light and came back. “That's Blue Ketil. I know his mother's house mark. He stood at my wedding with one of my man's stockings on his head because there'd been more beer than was good for anybody. Sten, love, you can take your hand away. That's your father's friend.”
 
-The boy took his hand away. Ragna faced Liv squarely now. She had depended on being right about that wave. All the walk up those steps she must have been afraid she was wrong, and that the woman from the lighthouse with the tidy shirt and the long count was going to take her finger as if she were a child herself and show her where she'd made her mistake.
+The boy took his hand away. Ragna faced Liv squarely now. It struck Liv then what it had cost Ragna to bring him. All the way up those steps she must have been afraid she was wrong, and that the woman from the lighthouse with the tidy shirt and the long count was going to take her finger as if she were a child herself and show her where she'd made her mistake.
 
 “Was he on the roll at the first port?” Liv asked.
 
-“I told you last summer. He boarded at Eldøy. His mittens went overboard pushing the bows off the piles. He took mine. When I close my eyes I can see the darn across his palm waving to the lad who took the stern rope. That's how sure I am. I don't know how to be any surer for you.”
+“I told you last summer. He boarded at Eldøy. His mittens went overboard pushing the bows off the piles. He took mine. There was a white darn across the palm. I could see it clear as day when he waved to the lad who took the stern rope. That's how sure I am. I don't know how to be any surer for you.”
 
 “I'll go to the pilot.”
 
@@ -70,7 +70,7 @@ They sat with their shoulders touching. She said a name. Her grandmother laid do
 
 “Somebody drew our reeve in the bath,” her grandmother said.
 
-They laughed as quietly as they could because of the people downstairs. The old woman turned it over to keep the week's oil reckoning on the back. Letters, initials, names of witnesses, you put all those by. Children's things filled up a working table. That winter it had seemed a happy thing that one could still laugh upon the stairs or in the little square circle of lamplight where two heads bent to the same long labor. Her grandmother had been dead and buried on the grassy side of the cliff for six years when Liv went to see the pilot. Till that walk it had been a good evening in her memory, down to the sound of the spoon touching the empty cup.
+They laughed as quietly as they could because of the people downstairs. The old woman turned it over to keep the week's oil reckoning on the back. Letters, initials, names of witnesses, you put all those by. Children's things filled up a working table. That winter it had seemed a happy thing that one could still laugh upon the stairs or in the little pool of lamplight where two heads bent to the same long labor. Her grandmother had been dead and buried on the grassy side of the cliff for six years when Liv went to see the pilot. Till that walk it had been a good evening in her memory, down to the sound of the spoon touching the empty cup.
 
 ## Chapter Three · A Man Who Could Draw
 
@@ -110,7 +110,7 @@ Liv had a clear view down the road to the sea. The tips of waves broke white aga
 
 “How big were the feet you gave it?” she said.
 
-“Oh, terrible. Only bird I could aim at was the one on my wife's stocking clock, and if that thing could fly I'll eat the heel.” He was looking with interest at her face, awaiting a recollection he thought would please them both. “Have you still got it?”
+“Oh, terrible. Only bird I could aim at was the one stitched above the ankle of my wife’s stocking, and if that thing could fly I'll eat the heel.” He was looking with interest at her face, awaiting a recollection he thought would please them both. “Have you still got it?”
 
 “We had it. I showed it to my grandmother. She thought a child had drawn it and she laughed. So did I. She used the back for accounts. Years later, when we ran out of kindling, I burned those accounts in the stove.”
 

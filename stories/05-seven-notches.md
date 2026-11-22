@@ -10,7 +10,7 @@ Harald knew his foster brother had come by the supper laid for two. Nobody else 
 
 “Somebody should have directed you to the end of the line.”
 
-Eirik got up. He had gone thick about the middle. There was white coming into a beard he could have braided with his own had Harald ever persuaded him to stand still for such a purpose. They held each other for a good while. Outside, Hrafnborg was settling down to rain. It was an evening almost precisely like the evenings the boys had spent in the house of Eirik's father, a keeper of the mountain road. Harald's own father sent him there every autumn to learn the country above the fjords. Everything in that house had smelled of drying hides. He had shared Eirik's narrow bed and never once been given an equal share of the covers.
+Eirik got up. He had gone thick about the middle. There were white hairs in the red beard. Harald was struck by how nearly it had become the face of the man who used to put them both to bed. They held each other for a good while. Outside, Hrafnborg was settling down to rain. It was an evening almost precisely like the evenings the boys had spent in the house of Eirik's father, a keeper of the mountain road. Harald's own father sent him there every autumn to learn the country above the fjords. Everything in that house had smelled of drying hides. He had shared Eirik's narrow bed and never once been given an equal share of the covers.
 
 “How's your mother?”
 
@@ -50,7 +50,7 @@ Eirik lay down on his belly and listened to the seawater. He got up wiping his e
 
 For an absurd moment Harald was angry with him. He had wanted Eirik to look into that gap, sit down on the planks and admit that it was plainly impossible for the coast to pay toward a mountain road. Instead, his brother had set about finding trees for him.
 
-At the kings' table that afternoon Harald spoke first. The ports had fleets, harbor chains, sea walls. Last year his own boatmen had fetched out the crews of two foundering grain ships. He asked his fellow kings what mountain lord had ever paid them a penny toward such expenses. He got his vote. Eirik took the vote home in writing. He left before Harald came down to breakfast. He had put the rest of the salt fish back in the small pantry, weighted with a plate to keep the flies off, as he did at home.
+At the kings' table that afternoon Harald spoke first. The ports had fleets, harbor chains, sea walls. Last year his own boatmen had fetched out the crews of two foundering grain ships. He asked his fellow kings what mountain lord had ever paid them a penny toward such expenses. One by one the kings agreed to keep the duties in their own ports. Eirik took their refusal home in writing. He left before Harald came down to breakfast. He had put the rest of the salt fish back in the small pantry, weighted with a plate to keep the flies off, as he did at home.
 
 ## Chapter Two · The Offer
 
@@ -100,7 +100,7 @@ They went down to Stairwatch without signing. Gerda rode beside him in silence t
 
 “You lay on the wall beside him when he offered to find us timber. What do I tell his mother?”
 
-“Tell her what you told the wagoner's widow when you voted. And if you mean to take the wall money, tell my daughter where she should sleep when the waves come through her kitchen. You make a deal of going to speak to people's mothers when you've a mind to be decent. You've four thousand out there with mothers. Speak to them.”
+“Did you ask after that wagoner's family when you took the vote? And if you mean to take the wall money, tell my daughter where she should sleep when the waves come through her kitchen. You make a deal of going to speak to people's mothers when you've a mind to be decent. You've four thousand out there with mothers. Speak to them.”
 
 The mule chewed his glove. It took him several seconds to get possession of his own hand. Gerda watched him do it, and the familiarity of her dear, disagreeable face made his throat ache.
 
@@ -142,7 +142,7 @@ A woman asked him whether she would have to move with every easterly wind. A shi
 
 “You can go and see. You know where the buckets are.”
 
-It took them all afternoon. He gave over his own oak from the naval yard for the worst of the gap. The rest would take longer. Later in the summer, timber with Eirik's household mark on the end grain began coming down the road. A straight stick of oak takes a good many men to bring down a mountain. On the quay they saw what that had cost too.
+It took them all afternoon. He went to the sail loft that evening with Gerda. They set three buckets under the leaks and shifted the king’s sails to the wet end before the families moved in. He gave over his own oak from the naval yard for the worst of the gap in the wall. The rest would take longer. Later in the summer, timber with Eirik's household mark on the end grain began coming down the road. A straight stick of oak takes a good many men to bring down a mountain. On the quay they saw what that had cost too.
 
 At the summer assembly at Thingvellir the rulers gave the business of the roads two full days. Nobody would agree to a common toll until they knew what happened when the kings quarreled next. A mountain woman who had driven the first meat wagons through asked whether they were to bring their own army every spring. A pilot asked who would judge a claim against Harald if his ships failed to pay. Harald took Gerda's little bit of wood out of his coat and stood her where every ruler present could see her.
 

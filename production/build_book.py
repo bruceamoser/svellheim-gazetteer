@@ -15,6 +15,7 @@ from xml.sax.saxutils import escape
 
 from PIL import Image as Raster, ImageOps
 from reportlab.lib.colors import HexColor
+from reportlab.lib.sequencer import _format_i as lower_roman
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.utils import ImageReader
 from reportlab.pdfbase import pdfmetrics
@@ -416,7 +417,7 @@ def layout_stories(path, pages):
     chapter = style("novel chapter",italic,15,19,black,alignment=1,spaceAfter=10,keepWithNext=True)
     small = style("novel small",serif,10.5,13,black,alignment=1)
     story_index = style("story contents",serif,14,17,black,spaceBefore=5)
-    chapter_index = style("chapter contents",serif,10.5,12,black,leftIndent=15)
+    chapter_index = style("chapter contents",serif,11.5,15,black,leftIndent=15)
     first_key = STORIES[0].stem
 
     def folio(c, book):
@@ -429,7 +430,7 @@ def layout_stories(path, pages):
         else:
             if page == start:
                 c.addPageLabel(page-1,style="ARABIC",start=1)
-            number = str(page-start+1) if start else ("ii" if page==3 else "iii")
+            number = str(page-start+1) if start else lower_roman(page-1)
             c.setFont(serif,10.5)
             c.setFillColor(HexColor(black))
             c.drawCentredString(width/2,28,number)
@@ -449,33 +450,36 @@ def layout_stories(path, pages):
     flow = [Spacer(1,1),NextPageTemplate("novel"),PageBreak(),Spacer(1,132),
             Paragraph("Stories of Svellheim",title),Paragraph("Seven short stories",chapter),
             Spacer(1,88),Paragraph("World created by Bruce Moser",small),
-            Spacer(1,126),Paragraph("Cover illustration created with OpenAI image generation.",small),
-            PageBreak(),Paragraph("Contents",title)]
-    rows = []
+            Spacer(1,126),Paragraph("Cover illustration created with OpenAI image generation.",small)]
     def contents_row(name, key, face, number):
         linked = f'<link href="#{key}">{escape(name)}</link>'
         right = ParagraphStyle("right folio",parent=face,alignment=2,leftIndent=0)
-        rows.append([Paragraph(linked,face),Paragraph(f'<link href="#{key}">{number}</link>',right)])
+        return [Paragraph(linked,face),Paragraph(f'<link href="#{key}">{number}</link>',right)]
 
-    contents_row("Foreword","foreword",story_index,"iii")
     manuscripts = [(f,f.read_text().strip().split("\n\n")) for f in STORIES]
-    for f,blocks in manuscripts:
-        for block in blocks:
-            if block.startswith("# "):
-                name, key, face = block[2:], f.stem, story_index
-            elif block.startswith("## "):
-                name = block[3:]
-                key, face = f.stem+"-"+slug(name), chapter_index
-            else:
-                continue
-            number = pages[key]-pages[first_key]+1 if pages else ""
-            contents_row(name,key,face,number)
-    flow.append(Table(rows,colWidths=[text_width-24,24],hAlign="CENTER",style=TableStyle([
-        ("VALIGN",(0,0),(-1,-1),"TOP"),("LEFTPADDING",(0,0),(-1,-1),0),
-        ("RIGHTPADDING",(0,0),(-1,-1),0),("TOPPADDING",(0,0),(-1,-1),0),
-        ("BOTTOMPADDING",(0,0),(-1,-1),0.4),
-        *[("TOPPADDING",(0,i),(-1,i),4) for i,row in enumerate(rows) if row[0].style is story_index],
-    ])))
+    foreword_number = lower_roman(pages["foreword"]-1) if pages else ""
+    rows = [contents_row("Foreword","foreword",story_index,foreword_number)]
+    # Keep the chapters of each story together across the two contents pages.
+    for group in (manuscripts[:3], manuscripts[3:]):
+        for f,blocks in group:
+            for block in blocks:
+                if block.startswith("# "):
+                    name, key, face = block[2:], f.stem, story_index
+                elif block.startswith("## "):
+                    name = block[3:]
+                    key, face = f.stem+"-"+slug(name), chapter_index
+                else:
+                    continue
+                number = pages[key]-pages[first_key]+1 if pages else ""
+                rows.append(contents_row(name,key,face,number))
+        flow.extend([PageBreak(),Paragraph("Contents",title),Table(
+            rows,colWidths=[text_width-24,24],hAlign="CENTER",style=TableStyle([
+                ("VALIGN",(0,0),(-1,-1),"TOP"),("LEFTPADDING",(0,0),(-1,-1),0),
+                ("RIGHTPADDING",(0,0),(-1,-1),0),("TOPPADDING",(0,0),(-1,-1),0),
+                ("BOTTOMPADDING",(0,0),(-1,-1),1),
+                *[("TOPPADDING",(0,i),(-1,i),7) for i,row in enumerate(rows) if row[0].style is story_index],
+            ]))])
+        rows = []
     flow.extend([PageBreak(),Spacer(1,48),heading("Foreword","foreword",1)])
     for i,para in enumerate(Path("stories/foreword.md").read_text().strip().split("\n\n")[1:]):
         flow.append(Paragraph(escape(para),prose if i else first))

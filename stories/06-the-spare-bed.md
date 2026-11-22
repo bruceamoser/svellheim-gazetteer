@@ -38,7 +38,7 @@ They tried three more times. After the third his father went down on one hip wit
 
 When fire returned, three days had gone by. The first sound Finn heard was a woman saying an ugly word in a perfectly ordinary voice. She had burned herself trying a bit of wreck wood on a flame that a moment before had been only a spark. The fire took on the hearth. His mother fetched all the pots together and set them on the floor. Years before, his father told him, Frigg had entrusted fire to a child to carry to the next house. It was the custom in their part of the fjords for the children to take the first coals to a neighbor. Finn had done it at eight in a new coat while everyone watched and said what a big fellow he was.
 
-In the third morning's gray light he went across the lane in his old shirt, in boots that pinched his feet, his shoulder to the wall because it seemed frightfully easy to slip. His aunt met him on the step with her apron over her hands.
+In the gray light after the third night he went across the lane in his old shirt, in boots that pinched his feet, his shoulder to the wall because it seemed frightfully easy to slip. His aunt met him on the step with her apron over her hands.
 
 “Did you bring the right sort?” she asked. “I'd hate to find your mother had sent cold ones.”
 
@@ -48,7 +48,7 @@ The small coals lit up her whole black face and the tracks left by the tears cut
 
 Harpa was the month the barley went in. In the year when no one had quite settled on calling it Fimbulwinter yet, the water rained off the eaves for three days in Harpa and the bells began to ring down at the fish market. Finn's father sent him for bait, whistling around a mouthful of needles while he got the nets ready. His mother put her hand outside and let it get wet. Most mornings after that terrible night she had touched the hearthstone before letting herself go back to sleep.
 
-They went up to a little holding beyond the south wall to help sow old Dag's field. Dag had a daughter Una's age, about grown, whose name was Oda. She had once taught Finn the great secret of drinking warm milk, which was to put the first squeeze in the cat's mouth so he would move his head and let you get at the second. Her cow's name was Poppy. Oda could lean against the cow's warm side on a milking stool and go to sleep.
+They went up to a little holding beyond the south wall to help sow old Dag's field. Dag's daughter Oda was sixteen and had been milking Poppy twice a day since she was Finn's age. She had once taught Finn the great secret of drinking warm milk, which was to put the first squeeze in the cat's mouth so he would move his head and let you get at the second. Oda could lean against the cow's warm side on a milking stool and go to sleep.
 
 The earth rolled back in black strips. Finn's father set a finger into the furrow and hit frost at the first joint. Beneath the surface it was hard enough to ring when the share struck. The sowing barley was brought back inside. Finn and Oda ran an old wheel down the slope until they had mud up to the backs of their heads. He went home with a bottle of milk, well pleased with a day's planting in which he'd been spared the job of planting anything.
 
@@ -188,7 +188,7 @@ He came down the path.
 
 “Fetch the sledge up close, Oda,” he said. “Let's get him home while he can still sit up.”
 
-His aunt nodded. It did not feel good to have made the decision. When the others went in to help him get the man up, Finn took the short line out of his pocket and laid it on the windowsill, coiled the way his father liked. With a piece of old charcoal he wrote under it where they had taken the men and the time they had left. His father would see his writing and know.
+His aunt nodded. He kept his back to the headland. He knew exactly how much smaller the sails would look by the time anybody could get to that cove tomorrow. When the others went in to help him get the man up, Finn took the short line out of his pocket and laid it on the windowsill, coiled the way his father liked. With a piece of old charcoal he wrote under it where they had taken the men and the time they had left. His father would see his writing and know.
 
 ## Chapter Five · The Good Blanket
 
@@ -198,7 +198,7 @@ It was nearly midnight when they brought the sledge in. The light above the town
 
 His mother put her cold fingers against the back of his neck. “Give me a minute,” she said. They stood together while his aunt began to wrangle the sledge round to the house where the healer lived. When his mother was ready they went after her.
 
-At home the little ones were asleep, both in the same nightdress, top to tail, because all the shirts in the house had been torn up for the people off the boats. Virve and Oda were sitting on the floor taking turns over a bowl of what looked like yesterday's supper, with the cat hanging his head over the rim. The house smelled of damp wool, the sour yeasty smell of feet bound up a long while, the good salted smell of the broth. At the hearth Rua lay in a chair. She had got the creases of her sleeve printed into one cheek from trying to make a pillow out of so little arm.
+At home the little ones were asleep head to foot on one mattress, his aunt’s big apron spread over their nightshirts. The spare sheets had been torn up for the people off the boats. Virve and Oda were sitting on the floor taking turns over a bowl of what looked like yesterday's supper, with the cat hanging his head over the rim. The house smelled of damp wool, the sour yeasty smell of feet bound up a long while, the good salted smell of the broth. At the hearth Rua lay in a chair. She had got the creases of her sleeve printed into one cheek from trying to make a pillow out of so little arm.
 
 “I have to go and see them,” she told Finn.
 

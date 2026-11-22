@@ -32,7 +32,7 @@ Her brother Odd tossed her his cap. Four other captains had put off the crossing
 
 “Anybody have a criticism?” Una called.
 
-“You've left my good cap on the other side,” said Odd.
+“When you do it coming back,” Odd said, wringing out his cap, “give me leave to wear yours.”
 
 They ate hot fish on the quay at Hrafnborg. The last man off offered her a coin with a hole in it for the fare. Una slid it back along his belt. “Buy your mother something ugly as sin when you get back. She'll keep it till she dies.”
 
@@ -52,7 +52,7 @@ Una gave it. “I used to be one of your passengers. You took me out of a fish h
 
 “Did you get home?”
 
-It took Una a moment. She had thought it so likely Asa would enjoy meeting the girl who had grown up to be a captain that she had brought a second bottle of her own blackberry wine. “Yes. That's a daughter of mine you can hear cursing a sailmaker outside. He's her husband now, which has done nothing to improve his sailmaking.”
+It took Una a moment. She had thought it so likely Asa would enjoy meeting the girl who had grown up to be a captain that she had brought a second bottle of her own blackberry wine. “Yes. That's a daughter of mine I can hear out there haggling over a sail. My son-in-law made the sail, which puts him at something of a disadvantage.”
 
 Asa set her peas down. “Will you take charge of a barge for me tomorrow? I've people going into the mountains enough. I have nobody I trust coming back.”
 
@@ -90,7 +90,7 @@ At the wharf Meret and four volunteers laid her in a blanket between two poles. 
 
 “How fine to have had your father.”
 
-There were things Una had imagined saying to her over the years. At this distance of years she could still have got angry enough to say some of them. Instead she opened the second bottle. Asa drank half a cup and corked the rest herself. She wanted to be clearheaded in the morning.
+There were things Una had imagined saying to her over the years. At this distance of years she could still have got angry enough to say some of them. Instead she opened the second bottle. Asa drank half a cup and corked the rest herself. She had promised to sit up with the grain carters when they came in. “They tell me things at supper,” she said. “In the morning they tell me everything went well.”
 
 ## Chapter Three · Downriver
 
@@ -138,7 +138,7 @@ Word came down in the night. The armies on the two sides of the mountains had me
 
 All winter the allied armies kept the mouths of the mountain workings while the last captives were brought out. Una ran the barge. Orders, rumors and small parcels traveled on it. The only one to come from Asa contained two felt insoles. Una sent back a drawing of the proper place to put them. She had never before been on such terms with the commander of an army.
 
-The day the last prisoners came to the river, Asa wrote the order sending the armies home. Una stood behind her at the writing table, making rude observations about the length of it. A boy took it down the wharf at a run. The soldiers cheered as he went by. Some had shaved for the occasion. Una remembered how quickly it had grown dark the day her father had come down to the water with a cat inside his coat, and how carefully he had plainly shaved to be seen by a girl of six.
+The day the last prisoners came to the river, Asa wrote the order sending the armies home. Una stood behind her at the writing table, making rude observations about the length of it. A boy took it down the wharf at a run. The soldiers cheered as he went by. Some had shaved for the occasion. As the last wagon emptied, Asa sent a rider downriver to Ormsund with a second copy of the order. Una remembered how quickly it had grown dark the day her father had come down to the water with a cat inside his coat, and how carefully he had plainly shaved to be seen by a girl of six.
 
 She was carrying the table back aboard when she heard a horse come hard through the shallows. Three riders broke out of the brush on the far bank. All winter there had been men out of Vargeld's companies living hungry in the gullies. These had come to the crossing at the worst possible moment. One rider fell. An arrow passed through the skin of the drum with which a small boy was welcoming his father home. The boy stood looking into the hole. Asa was standing under the awning with a young prisoner who could barely keep his feet. She pushed him into the open loading door. Una saw the next arrow strike her high in the side. She saw it come through the front of her gray coat. Then the river heaved the barge away and back, and she was on her knees on the boards with Asa against her.
 

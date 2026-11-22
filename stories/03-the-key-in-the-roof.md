@@ -28,7 +28,7 @@ Under the bench I found a baby's stocking, three plum stones and the missing ear
 
 “Find the goose. It's the one with the right number of feet and the wrong number of toes.”
 
-I had my face close to the tiles. I can smell the baking clay yet, the first time the sun got on that roof.
+I had my face close to the tiles. I can still feel the heat coming off the red clay when I laid my cheek against the goose.
 
 That evening two brothers came in separately. The elder had the younger's sheep, and the younger had a split lip the shape of his brother's ring. Ari made them leave their knives in the shed. Both men were entitled to supper and a dry place until morning. My uncle put me to bed behind the grain chest, where I could listen to them quarrel in whispers for fear of waking me. By daylight two neighbors had come to hear the dispute. The older brother showed them a mark in the sheep's ear. A ewe had got into the wrong fold in the dark. The younger brother went home with the ewe and a wedge of cheese for his lip.
 
@@ -120,7 +120,7 @@ I heard a scuffle, a cry that went high like a hurt dog's, the ring of iron on t
 
 ## Chapter Four · The Great Green
 
-It was his bird I heard first, its low familiar chuckling up in the beech. A Tender took birds from one shrine to the next so there was always one that knew its way back. He'd been carrying this one for a friend. The wicker top had come off his pack in the fight. Ari poured some barley into my hand and whistled her down. He had me slip a little vial into the tube at her leg. There was one twist of paper in it. In his own writing, quite plain, a request for a bed for two.
+It was his bird I heard first, its low familiar chuckling up in the beech. A Tender took birds from one shrine to the next so there was always one that knew its way back. He'd been carrying this one for a friend. The wicker top had come off his pack in the fight. Ari poured some barley into my hand and whistled her down. He had me slip a little vial into the tube at her leg. There was a twist of paper in it. In his own writing, quite plain, a request for a bed for two. He got out the stub of marking chalk and had me add, “Come with wheels. I am hurt.”
 
 “You had that written already?”
 
@@ -138,7 +138,7 @@ We got as far as a charcoal burner's old camp by nightfall. I found a piece of s
 
 He slept after that. I took his sword out into the clearing. I wanted very much to have it in my hand if I heard anyone coming. I also wanted to set it down somewhere and leave it behind when we went. It had the worn place on the grip from his thumb that the handle of our old broom had.
 
-The second day we walked the length of a house and rested, walked the length of a house and rested again. He had lost the red veins beside his nose. He could no longer lift his foot over a log. He sat on one side and I took his heels and moved him round like a hand on a clock. Once he was silent so long I bent down to listen.
+The second day we walked the length of a house and rested, walked the length of a house and rested again. He had lost the red veins beside his nose. He could no longer lift his foot over a log. He sat sideways on the log. I knelt, took his heels in my hands and swung his feet over. Once he was silent so long I bent down to listen.
 
 “Sif,” he whispered. “There's the damned pond.”
 
