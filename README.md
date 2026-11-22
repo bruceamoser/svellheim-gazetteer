@@ -27,6 +27,8 @@ Svellheim once prospered. Ships sailed south, assemblies drew delegates from acr
 6. [The Spare Bed](stories/06-the-spare-bed.md)
 7. [A Name in Wool](stories/07-a-name-in-wool.md)
 
+[From the Author](stories/from-the-author.md)
+
 The [manuscript archive](stories/archive/) keeps the earlier historical accounts, household traditions, winter scenes and accounts of worship.
 
 ## Manuscript format

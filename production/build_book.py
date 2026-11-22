@@ -483,6 +483,9 @@ def layout_stories(path, pages):
         return [Paragraph(linked,face),Paragraph(f'<link href="#{key}">{number}</link>',right)]
 
     manuscripts = [(f,f.read_text().strip().split("\n\n")) for f in STORIES]
+    author_note = Path("stories/from-the-author.md")
+    note_heading, *note_paragraphs = author_note.read_text().strip().split("\n\n")
+    note_title = note_heading.removeprefix("# ")
     rows = [contents_row(name,key,story_index,lower_roman(pages[key]-1) if pages else "")
             for name,key in (("Publication and credits","publication"),("Foreword","foreword"))]
     # Keep the chapters of each story together across the two contents pages.
@@ -498,6 +501,9 @@ def layout_stories(path, pages):
                     continue
                 number = pages[key]-pages[first_key]+1 if pages else ""
                 rows.append(contents_row(name,key,face,number))
+        if group and group[-1][0] == manuscripts[-1][0]:
+            number = pages[author_note.stem]-pages[first_key]+1 if pages else ""
+            rows.append(contents_row(note_title, author_note.stem, story_index, number))
         flow.extend([PageBreak(),Paragraph("Contents",title),Table(
             rows,colWidths=[text_width-24,24],hAlign="CENTER",style=TableStyle([
                 ("VALIGN",(0,0),(-1,-1),"TOP"),("LEFTPADDING",(0,0),(-1,-1),0),
@@ -524,6 +530,11 @@ def layout_stories(path, pages):
             else:
                 flow.append(Paragraph(inline(block,f),first if opens else prose))
                 opens = False
+    flow.extend([PageBreak(),Spacer(1,32),heading(note_title,author_note.stem,1)])
+    letter = ParagraphStyle("author note",parent=first,alignment=0,spaceAfter=10)
+    for block in note_paragraphs:
+        lines = [inline(line.rstrip(),author_note) for line in block.splitlines()]
+        flow.append(Paragraph("<br/>".join(lines),letter))
     doc.build(flow)
     return doc.starts
 
