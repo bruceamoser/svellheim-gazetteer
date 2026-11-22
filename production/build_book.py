@@ -103,10 +103,13 @@ def inline(text, path):
 
 def cover(c, doc):
     c.drawImage(ImageReader(BytesIO(jpeg(ART/"hrafnborg-cover.png"))), (W-H*1122/1402)/2, 0, H*1122/1402,H)
+    color_cover_titles(c, "WORLD GAZETTEER")
+
+def color_cover_titles(c, subtitle):
     c.drawImage(str(ART/"svellheim-logo.png"), 48,H-202,W-96,(W-96)/3,mask="auto")
     c.setFillColor(HexColor("#f8ecdb"))
     c.setFont("Label",15)
-    c.drawCentredString(W/2,H-222,"WORLD GAZETTEER")
+    c.drawCentredString(W/2,H-222,subtitle)
     gold_interlace(c,W,H)
 
 def stories_cover(c, doc):

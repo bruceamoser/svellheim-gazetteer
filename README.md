@@ -15,6 +15,10 @@ Svellheim once prospered. Ships sailed south, assemblies drew delegates from acr
 - [The Gods of Svellheim](gazetteer/06-pantheon.md)
 - [A Companion to Svellheim](gazetteer/07-reckonings.md)
 
+## Campaign World
+
+[View the Campaign World cover](output/pdf/Svellheim-Campaign-World-cover.jpg)
+
 ## Stories of Svellheim
 
 [Read the short story collection (PDF)](output/pdf/Stories-of-Svellheim.pdf)

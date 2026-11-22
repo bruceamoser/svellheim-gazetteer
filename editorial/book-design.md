@@ -45,6 +45,17 @@ Use warm off-white text pages, charcoal ink, muted iron blue for maps, and ember
 
 ## Artwork and cartography
 
+The Campaign World cover shows High King Harald hearing a visitor in his hall at Hrafnborg. His ash-grey beard, scarred hands and plain iron crown come from his campaign portrait and character description. The Gazetteer and Campaign World covers use the same gilt interlace, corner knots, wordmark and trim size. Run `python3 production/build_campaign_cover.py` to set the title and frame over the [unlettered painting](../artwork/harald-on-the-throne.png).
+
+<details>
+<summary>Campaign cover illustration prompt and reference</summary>
+
+Reference: the original [campaign portrait of High King Harald](https://github.com/bruceamoser/Era-of-Embers/blob/main/campaign/icons/npc-images/high-king-harald.png). The built-in image generator used it as a likeness reference.
+
+undefined
+
+</details>
+
 | Priority | Artwork |
 | --- | --- |
 | Continental map | Use the existing atlas grid to establish coastlines, the three belts, rivers and lakes, major settlements, and routes. Label known geography and keep the Green land in the oral record until its relationship to the known south is settled. |
