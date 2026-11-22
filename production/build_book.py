@@ -111,16 +111,30 @@ def cover(c, doc):
 def stories_cover(c, doc):
     width, height = doc.pagesize
     with Raster.open(ART/"stories-cover.png") as source:
-        canvas = ImageOps.fit(source.convert("RGB"), (1440,2160), centering=(.5,.52))
-        buf = BytesIO()
-        canvas.save(buf,format="JPEG",quality=95)
-    c.drawImage(ImageReader(BytesIO(buf.getvalue())),0,0,width,height)
-    c.setFillColor(HexColor("#faf0d0"))
+        c.drawImage(ImageReader(source.convert("L")),0,0,width,height)
+    c.setFillColor(HexColor("#171717"))
     c.setFont("BookBold",20)
     c.drawCentredString(width/2,height-54,"Stories of")
     c.setFont("BookBold",38)
     c.drawCentredString(width/2,height-99,"Svellheim")
     gold_interlace(c,width,height)
+
+def publication_page(source, heading_style, book_style, credit_style):
+    blocks = source.read_text().strip().split("\n\n")
+    title = blocks[0].removeprefix("# ")
+    opening = Paragraph(escape(title), heading_style)
+    opening.destination = ("publication", title, 1)
+    flow = [opening, Paragraph(escape(blocks[1].removeprefix("## ")), book_style), Spacer(1,18)]
+    for block in blocks[2:]:
+        lines = []
+        for line in block.splitlines():
+            value = escape(line.strip())
+            if value.startswith("www."):
+                value = f'<link href="https://{value}">{value}</link>'
+            lines.append(value)
+        flow.append(Paragraph("<br/>".join(lines), credit_style))
+        flow.append(Spacer(1,10))
+    return flow
 
 
 def manuscript_image(path, legend):
@@ -253,7 +267,7 @@ def layout_gazetteer(path, pages):
         "The gods at the hearth, on the road, and at sea",
         "Calendar, chronology, languages, worship and the nine worlds",
     ]
-    entries = [("Foreword","foreword",""),("Illustrated map","map","")]
+    entries = [("Publication and credits","publication",""),("Foreword","foreword",""),("Illustrated map","map","")]
     for idx, manuscript in enumerate(files):
         lines = manuscript.read_text().splitlines()
         entries.append((lines[0][2:],manuscript.stem,escape(descriptions[idx])))
@@ -268,7 +282,12 @@ def layout_gazetteer(path, pages):
         ("VALIGN",(0,0),(-1,-1),"TOP"),("LEFTPADDING",(0,0),(-1,-1),0),
         ("RIGHTPADDING",(0,0),(-1,-1),0),("BOTTOMPADDING",(0,0),(-1,-1),9),
     ])))
-    flow.extend([Spacer(1,12),Paragraph("World and original cartography by Bruce Moser. Cover, wordmark and interior illustrations created with OpenAI image generation.",caption),PageBreak()])
+    flow.extend([PageBreak(),Spacer(1,44)])
+    credit_heading = ParagraphStyle("gazetteer credit heading",parent=heads[1],alignment=1)
+    credit_book = ParagraphStyle("gazetteer credit book",parent=heads[2],alignment=1)
+    credit_text = style("gazetteer credits","Book",12,18,INK,alignment=1)
+    flow.extend(publication_page(Path("editorial/publication.md"),credit_heading,credit_book,credit_text))
+    flow.extend([Spacer(1,24),spot("ember-pot",156,136),PageBreak()])
     foreword = Path("editorial/foreword.md").read_text().strip().split("\n\n")
     opening = Paragraph("Foreword",heads[1])
     opening.destination = ("foreword","Foreword",1)
@@ -449,16 +468,15 @@ def layout_stories(path, pages):
 
     flow = [Spacer(1,1),NextPageTemplate("novel"),PageBreak(),Spacer(1,132),
             Paragraph("Stories of Svellheim",title),Paragraph("Seven short stories",chapter),
-            Spacer(1,88),Paragraph("World created by Bruce Moser",small),
-            Spacer(1,126),Paragraph("Cover illustration created with OpenAI image generation.",small)]
+            Spacer(1,88),Paragraph("World created by Bruce Moser",small)]
     def contents_row(name, key, face, number):
         linked = f'<link href="#{key}">{escape(name)}</link>'
         right = ParagraphStyle("right folio",parent=face,alignment=2,leftIndent=0)
         return [Paragraph(linked,face),Paragraph(f'<link href="#{key}">{number}</link>',right)]
 
     manuscripts = [(f,f.read_text().strip().split("\n\n")) for f in STORIES]
-    foreword_number = lower_roman(pages["foreword"]-1) if pages else ""
-    rows = [contents_row("Foreword","foreword",story_index,foreword_number)]
+    rows = [contents_row(name,key,story_index,lower_roman(pages[key]-1) if pages else "")
+            for name,key in (("Publication and credits","publication"),("Foreword","foreword"))]
     # Keep the chapters of each story together across the two contents pages.
     for group in (manuscripts[:3], manuscripts[3:]):
         for f,blocks in group:
@@ -480,7 +498,9 @@ def layout_stories(path, pages):
                 *[("TOPPADDING",(0,i),(-1,i),7) for i,row in enumerate(rows) if row[0].style is story_index],
             ]))])
         rows = []
-    flow.extend([PageBreak(),Spacer(1,48),heading("Foreword","foreword",1)])
+    flow.extend([PageBreak(),Spacer(1,48)])
+    flow.extend(publication_page(Path("stories/publication.md"),title,chapter,small))
+    flow.extend([PageBreak(),Spacer(1,16),heading("Foreword","foreword",1)])
     for i,para in enumerate(Path("stories/foreword.md").read_text().strip().split("\n\n")[1:]):
         flow.append(Paragraph(escape(para),prose if i else first))
     for f,blocks in manuscripts:

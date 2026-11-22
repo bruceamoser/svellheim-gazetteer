@@ -1,5 +1,9 @@
 # Foreword
 
-On the western shore of Lake Urdvatn, a girl lies in the shavings beneath a boat. Her mother is at work on the other side of the hull. Across the water the fishers of Reedbank have hung their washing out. Rann knows which family is home by the shirts on the line. She remembers the lake that way, and she is the first to speak here.
+The best fishing on Lake Urdvatn is along the eastern shore. The woman who can mend a boat well enough to hand down to your children lives on the western one. When her daughter Rann was young, the crossing cost a small coin. On a clear wash day Rann could tell which of her neighbors across the lake had company by the extra shirts on the line.
 
-These seven stories span the years from the War of the Dead to the winter of King Harald. Some of their people knew one another. Others, born generations apart, crossed the same river or found shelter at a door the earlier people had kept open. By the last tale, ice has closed the southern sea. On its shore a boy is bringing a weaver a few inches of red wool from his father’s cap.
+Svellheim was divided then among kings who ruled from walled towns. A village might owe its oldest debt to people on the far side of a border. When the upper river flooded, fishers from Urdvatn carried whole families to safety. Their grandchildren could still go upriver and ask for a boat and crew. The people of the two shores shared a burial ground. They washed their dead, dressed them for company, and asked Hel, the goddess who receives the dead, to welcome them. Occasionally a man or woman came walking home with a promise still to keep. Imagine answering a knock and finding the person whose grave you helped fill.
+
+These seven stories span generations. Rann knows the neighbors the first war will bring to her door. Their descendants rebuild towns together. A grain wagon can cross the mountains again, and a harbor child can watch ships sail south and expect them home in spring.
+
+By the last stories that child’s world has changed. On the longest night the fires went out across Svellheim. Fire returned after three days. Summer never did. Children born into that long winter have to ask what an apple tastes like. Rann could have told them. We begin when there were still apples to spare for a little girl lying in the shavings in her mother’s boatyard.
