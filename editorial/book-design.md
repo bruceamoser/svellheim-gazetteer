@@ -6,6 +6,14 @@ The foreword and continental map precede the history. The present-day chapters f
 
 Give each short story in the companion volume *Stories of Svellheim* its own title, viewpoint, and chapters. Introduce a household before the event that will change it. A remembered sound or a quarrel over something both characters have handled can show a reader what they stand to lose. Keep the source tellings in the manuscript archive. The gazetteer follows how events changed the world. Sacred origin stories belong with their peoples in the main book.
 
+## Revising the short stories
+
+Draft a section, then give the prose to another reader who has seen neither the outline nor the setting notes. Ask where they lost their bearings, what they imagined a person was doing with their hands, and what they thought the speakers wanted from each other. Let them point to the line where their picture of the scene broke down. Revise it and give them the passage again. Continue until they can follow the scene on its own. When the sections are joined, use a fresh reader to check what the characters have learned, where objects have traveled, and whether the ending follows from the time the characters spent together.
+
+Write from what the viewpoint character can notice. A child reaches a key with her uncle’s help before she grows tall enough to reach it herself. A half-heard conversation can become clear years later when she learns what it cost him to be away from home. Give dialogue time for a question to go badly, for the listener to reconsider, or for someone to find the courage to say what they wanted to say at the start. Give the reader the memory behind a family joke before asking them to share in it.
+
+Use Svellheim’s months and weekdays where people would rely on them to make plans. Introduce a hay month through the hay cut, a repair day through the neighbors who turn up with tools. Keep the labor visible in this world before steam power. Hand tools, animals, people and occasional water-driven mills do the work. Pick the sound, smell, texture or sight that matters to the person doing it. A silent millwheel matters to someone who has heard its clack all the way up the river.
+
 ## Narrative voice
 
 Use “strange,” “unfamiliar,” or the character’s own reaction in place of “queer” throughout the Svellheim books.
